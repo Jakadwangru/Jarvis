@@ -1,7 +1,10 @@
 body{
   text-align: center;
-  background: url(https://media1.tenor.com/m/vG8V8HgQ3h8AAAAC/iron-man.gif) no-repeat;
+  justify-content: center;
+/*   background: url(https://media1.tenor.com/m/vG8V8HgQ3h8AAAAC/iron-man.gif) no-repeat; */
+  background-color: black;
   background-size: cover;
+  font-family: monospace;
 }
 h1{
   padding-top: 50px;
@@ -9,6 +12,7 @@ h1{
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
   padding-bottom: 50px;
+  text-shadow: 0 0 20px #00fffb, 0 0 20px #00fffb;
   
 }
 .btn{
@@ -27,7 +31,7 @@ h1{
   border: 1px solid darkgray;
   background-color: lightgray;
   text-decoration: underline;
-  
+  box-shadow: 0 0 20px #00fffb , 0 0 20px #00fffb;
 }
 .about{
   padding-top: 100%;
