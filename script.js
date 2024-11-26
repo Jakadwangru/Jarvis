@@ -1,5 +1,5 @@
-const DevInfo ={
-Name:"Shaurya",
-Age:16,
-SchoolName:"LFH;
-}
+const devName = {
+  name = "Jakadwangru",
+  age = 16,
+  profession ="Programming",
+};
